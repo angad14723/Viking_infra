@@ -13,5 +13,5 @@ matching <img src="..."> in the HTML (e.g. ill-why.svg -> rs-wall.jpg on
 index.html). Recommended: landscape, ~1200px wide, JPG, under ~300 KB.
 
 Do NOT use photos from the Terrain PDFs - those are another company's images.
-When Balabharti Infrastructure has its own project photos, add a Projects / Case Studies
+When Vikings Infra Solutions has its own project photos, add a Projects / Case Studies
 page with real images.

@@ -1,4 +1,4 @@
-# Balabharti Infrastructure Pvt. Ltd. — Website
+# Vikings Infra Solutions Pvt. Ltd. — Website
 
 A static website (plain HTML/CSS/JS, no build step) for a **geosynthetics /
 ground-engineering** company — soil reinforcement, retaining structures, slope
@@ -49,7 +49,7 @@ python3 -m http.server 8000
 Placeholders are in `[SQUARE BRACKETS]` or an orange dashed note box. Find `[` to locate them.
 
 1. **Logo** — `assets/img/logo.svg` is a clean recreation of the helmet mark, wired into every header/footer. Replace with the final artwork from Turbologo when you have it (keep the filename `logo.svg`, or add `logo.png` and update `src` in all 6 files).
-2. **Company identifiers** — `CIN` and `GSTIN` in `contact.html` and every footer.
+2. **Company identifiers** — `CIN` and `GSTIN` were removed from `contact.html` and every footer (old Balabharti registration numbers). Add Vikings Infra Solutions' real numbers when available.
 3. **Photos** — the site currently uses original SVG illustrations everywhere. When you have real project photos, replace individual `ill-*` / `pr-*` images (drop a JPG in `assets/img/`, update the `<img src>`), and we can add a Projects / Case Studies page.
 4. **Hero stats** — `9+`, `6`, etc. on the homepage are indicative; adjust to real figures.
 5. **Standards strip** — homepage lists ISO 9001 / IRC / MoRTH / IS / ASTM / BIS as *design/spec* references. Add real certificates (and any vendor approvals like NHAI) only if the company actually holds them.
